@@ -6,8 +6,7 @@ Bamazon is a CLI App that utilizes MySQL and Node.js to create an Amazon-like st
 ## Bamazon In Action
 node bamazonCustomer.js
 
-![](images/bamazon-start.JPG)
-<img src="images/bamazon-star.JPG" width="200">
+<img src="images/bamazon-star.JPG" width="100">
 
 When the application is run, it pulls up the most current data from the MySQL database and displays it to the user. It then asks which product they would like to purchase followed by how many of that particular product they would like to purchase.
 
