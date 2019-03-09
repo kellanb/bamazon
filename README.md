@@ -16,18 +16,4 @@ After the application has the product ID and the number of units, it calculates 
 
 ![](images/bamazon-out.JPG)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 If at any point the user tries to buy more of a product that Bamazon has in stock, the application will display a message to the user letting them know that there is insufficient quantity and it will then let the user buy a different amount of that same product or choose a different product altogether.
