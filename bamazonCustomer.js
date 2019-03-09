@@ -55,6 +55,7 @@ const buyStuff = () => {
     .then((answer) => {
       let selectedItem = answer.buyproduct;
       let quantity = answer.quantity;
+      
       connection.query("SELECT * FROM products WHERE ?",
       {item_id: selectedItem},
       (err, res) => {
