@@ -14,6 +14,6 @@ When the application is run, it pulls up the most current data from the MySQL da
 
 After the application has the product ID and the number of units, it calculates the total purchase cost and displays it to the user. After a short timeout, the updated table of data is displayed with the new stock quantity of each item.
 
-![](images/bamazon-start.JPG)
+![](images/bamazon-out.JPG)
 
-If at any point the user tries to buy more of a product that Bamazon has in stock, the application will display a message to the user letting them know that there is insufficient quantity and it will then pull up the storefront again to let the user buy a different amount of that same product or choose a different product altogether.
+If at any point the user tries to buy more of a product that Bamazon has in stock, the application will display a message to the user letting them know that there is insufficient quantity and it will then let the user buy a different amount of that same product or choose a different product altogether.
