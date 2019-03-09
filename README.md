@@ -10,7 +10,7 @@ node bamazonCustomer.js
 
 When the application is run, it pulls up the most current data from the MySQL database and displays it to the user. It then asks which product they would like to purchase followed by how many of that particular product they would like to purchase.
 
-![](images/bamazon-cost.JPG)
+![test](images/bamazon-cost.JPG)
 
 After the application has the product ID and the number of units, it calculates the total purchase cost and displays it to the user. After a short timeout, the updated table of data is displayed with the new stock quantity of each item.
 
