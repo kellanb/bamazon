@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI inventory tool",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellanb/bamazon.git"
+  },
+  "author": "Kellan Benn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellanb/bamazon/issues"
+  },
+  "homepage": "https://github.com/kellanb/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
